@@ -14,6 +14,6 @@ int main()
 	cout << NumberOne * NumberTwo << endl;
 	cout << NumberOne / NumberTwo << endl;
 	cout << NumberOne % NumberTwo << endl;
-
+	cout << NumberOne + NumberTwo << endl;
 
 }
